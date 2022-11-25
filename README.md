@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Java
 
 Always willing to learn and improve
-I love art, poetry, and neurones
+-- I love art, poetry, and neurones
