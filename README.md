@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ferranjunoy
-- 👀 I’m interested in developmental neurobiology, computational neuroscience, and advanced neural networks
-- 🌱 I’m currently learning Java
+- 👀 Interested in developmental neurobiology, computational neuroscience, and advanced neural networks
+- ⚙️ Fluent in Python
+- 🌱 Currently learning Java and JavaScript
 
 Always willing to learn and improve
 -- I love art, poetry, and neurones
