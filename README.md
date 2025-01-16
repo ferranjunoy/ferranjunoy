@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ferranjunoy
-- 👀 Interested in developmental neurobiology, computational neuroscience, and advanced neural networks
+- 👀 Interested in computational neuroscience and modelling information representations in the brain (e.g., continuous attractor networks)
 - ⚙️ Fluent in Python and MATLAB
-- 🌱 Currently learning JavaScript
+- 🌱 Currently working on modelling the ensemble activity of a population of boundary vector cells
 
 Always willing to learn and improve
--- I love art, poetry, and neurones
+-- I love maths, poetry, and neurones
